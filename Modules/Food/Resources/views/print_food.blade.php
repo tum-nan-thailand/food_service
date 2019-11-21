@@ -127,7 +127,7 @@
                 /* background-color: #4CAF50; */
                 /* color: white; */
                 }
-            }
+             }
 
             table {
                 /* font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; */
