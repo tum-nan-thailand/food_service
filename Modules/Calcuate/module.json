@@ -1,0 +1,13 @@
+{
+    "name": "Calcuate",
+    "alias": "calcuate",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Calcuate\\Providers\\CalcuateServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
