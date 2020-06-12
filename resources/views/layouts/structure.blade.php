@@ -5,11 +5,11 @@
         // print_r($User);
         if(!$User) {
             header("Location: auth/login");
-            exit(0);
+            exit(0); 
         }
         @endphp
     <head>
-        <meta charset="utf-8"> 
+        <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title> @yield('title')</title>
